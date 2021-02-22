@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.login {
+    width: 400px;
+    height: 560px;
+    background-color: cadetblue;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    /* overflow: hidden; */
+}
+
+.login a {
+    color: white;
+    text-decoration: none;
+}
+
+.label {
+    margin: 20px 0 0 170px;
+    font-size: 20px;
+}
+
+.input {
+    margin-left: 70px;
+}
+
+.input input {
+    width: 245px;
+}
+
+.a {
+    text-decoration: none;
+    margin-left: 135px;
+}
+
+.btn {
+    width: 70%;
+    background-color: coral;
+    height: 40px;
+    border: none;
+    font-size: 18px;
+    border-radius: 20px;
+    margin: 20px 0 0 56px;
+    color: white;
+}
+
+.login h2 {
+    padding: 61px 0 0 18px;
+    font-size: 35px;
+    color: #c6485e;
+}
+
+.signup {
+    position: relative;
+    left: 320px;
+    top: -300px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    /* display: none; */
+    background-color: coral;
+}
+
+.registers {
+    display: none;
+}
+
+.closee {
+    width: 30px;
+    height: 30px;
+    /* background-color: black; */
+    color: black;
+    padding: 7px 0 0 12px;
+    font-size: 22px;
+    font-weight: bold;
+    margin: -39px 0 0 326px;
+}
+
+
+/* .signup a {
+    text-decoration: none;
+} */
+
+.name {
+    margin: 20px 0 0 20px;
+}
+
+.btn_rgstr {
+    margin: 30px 0 0 110px;
+    background-color: cadetblue;
+    color: white;
+    width: 40%;
+    height: 40px;
+    border: none;
+    font-size: 18px;
+    border-radius: 20px;
+}
